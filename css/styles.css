@@ -2457,19 +2457,19 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #57c3cd;
+  border-color: #57c3cd;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
+  background-color: #007A8E;
+  border-color: #007A8E;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
-  box-shadow: 0 0 0 0.2rem rgba(254, 216, 84, 0.5);
+  background-color: #007A8E;
+  border-color: #007A8E;
+  box-shadow: 0 0 0 0.2rem rgba(157, 243, 245, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
@@ -10033,10 +10033,10 @@ img::-moz-selection {
   border: 0;
 }
 #mainNav .navbar-brand {
-  color: #fed136;
   font-family: 'Oleo Script', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 400;
   letter-spacing: 0.0625em;
+  color: #9DF3F5;
 }
 #mainNav .navbar-brand img {
   height: 1.5rem;
@@ -10091,7 +10091,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/background1.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
