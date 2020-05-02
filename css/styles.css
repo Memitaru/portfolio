@@ -9748,7 +9748,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #57c3cd !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10029,7 +10029,7 @@ img::-moz-selection {
   font-size: 0.75rem;
   color: #fff;
   text-transform: uppercase;
-  background-color: #fed136;
+  background-color: #57c3cd;
   border: 0;
 }
 #mainNav .navbar-brand {
