@@ -10312,6 +10312,12 @@ header.masthead .masthead-heading {
 }
 
 @media (min-width: 768px) {
+
+  .portfolio-modal .modal-dialog {
+    margin: 3rem auto;
+    max-width: 80vw;
+  }
+  
   .timeline:before {
     left: 50%;
   }
