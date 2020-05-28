@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #212529;
+  /* color: #212529; */
   text-decoration: none;
   background-color: transparent;
 }
@@ -10180,9 +10180,14 @@ header.masthead .masthead-heading {
   max-width: 100vw;
 }
 
-/* .stack{
+.stack{
   text-decoration: underline;
-} */
+}
+
+.list-link{
+  margin-bottom: 1rem;
+  color: #0000EE !important;
+}
 
 .center{
   text-align: center;
